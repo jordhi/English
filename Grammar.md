@@ -1,6 +1,6 @@
 ## 1A - Have (auxiliary or main verb)
 
-### As a *main verb*
+### As a *main verb*  
 We don't usually contract **have** when it is a main verb  
 
 1. >**Possession** (is stative/non-action)  
@@ -8,9 +8,24 @@ We don't usually contract **have** when it is a main verb
     >- Used to talk about illnesses and relationships  
 
 2.  >**Actions and experiences**: 'have + object'  
-    >- *Have a bath, a drink, a chat, etc.*
+    >- *__Have a bath, a drink, a chat, etc.__*
 
 3. >**Obligation** imposed by others, rules and regulations  
 
 4. >To say that you ask or pay another person **to do something for you**  
-    >- Have + object + past participle: *I have my eyes tested*  
+    >- Have + object + past participle: **_I have my eyes tested_**  
+
+### As an *auxiliary verb*  
+
+We make questions by inverting have and the subject, and negatives with haven't/hasn't or his contracted 've / 's/ 'd  
+
+1. >**Possession** *Have got* (not had got). (informal English)  
+2. >In **negative** sentences leave out 'got': *I haven't time*
+3. >**Obligation** Is used for a specific obligation:  
+    > - I've got to make a quick phone call (specific)  
+    > - I have to wear a suit for work (general without got)  
+4. >In order to form the **present perfect simple ans continuous**  
+    > - I have seen two cows  
+    > - I have been seeing with your brother  
+
+    
