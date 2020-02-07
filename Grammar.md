@@ -17,7 +17,7 @@ We don't usually contract **have** when it is a main verb
 
 ### As an *auxiliary verb*  
 
-We make questions by inverting have and the subject, and negatives with haven't/hasn't or his contracted 've / 's/ 'd  
+We make questions by inverting have and the subject, and negatives with haven't/hasn't or his contracted 've / 's/  'd  
 
 1. >**Possession** *Have got* (not had got). (informal English)  
 2. >In **negative** sentences leave out 'got': *I haven't time*
