@@ -29,7 +29,7 @@ We make questions by inverting have and the subject, and negatives with haven't/
     > - I have been seeing with your brother  
 5. >**Other forms**: future perfect, perfect infinitive, past perfect, etc.  
 
-### Others  
+### <span style="color:red">Others</span>  
 Be careful with the use of the present prefect for unfinished time:
 - They**'ve been married** for over 15 years (*Ells **porten casats** més de 15 anys*)  
 - I **haven't been feeling** all that well recently (Últimament **no em trobo** molt bé)  
