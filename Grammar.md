@@ -40,7 +40,7 @@ Be careful with the use of the present prefect for unfinished time:
 
 ### <span style="color:blue">Exercises</span>  
 #### A. Right/Wrong  
-0. I**'ve been** looking after my sister's kids all day :heavy_check_mark:  
+0. **I've been** looking after my sister's kids all day :heavy_check_mark:  
 1. I don't think you should drive until **you've had your brakes fixed**. :heavy_check_mark:  
 2. I **haven't got any money** :heavy_check_mark:  
 3. **Has your husband to** work tomorrow he is taking the day off. :x:  
@@ -63,4 +63,3 @@ Be careful with the use of the present prefect for unfinished time:
     - Fa 18 mesos que no faig vacances*  
 9. **Have we got to do this exercise now**, or can we do it later for homework? :heavy_check_mark:  
    *Reason: Have got in obligation form is an auxiliary verb.*  
-   
