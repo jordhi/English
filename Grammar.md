@@ -45,4 +45,22 @@ Be careful with the use of the present prefect for unfinished time:
 2. I **haven't got any money** :heavy_check_mark:  
 3. **Has your husband to** work tomorrow he is taking the day off. :x:  
    **Does your husband have to**... :heavy_check_mark:  
+   *Reason: Have to express obligation is a main verb not an auxiliary verb.*  
+4. The staff **don't have to dress formally** in this company. They can wear what they like. :heavy_check_mark:  
+  *Reason: Obligation negative 'Have to'*  
+5. **How long have you been having** your flat in London? :x:  
+   **How long have you had** ... :heavy_check_mark:  
+  *Translation: Quant de temps fa que tens un pis a Londres?*  
+6. What time **are we having dinner** tonight? :heavy_check_mark:  
+   *Reason: present continuous to express future action*  
+7. My parents **had got a lot of problems** with my sister. :x:  
+   *Reason: 'got' not in past 'had'*  
+   My parents **had a lot of problems** with my sister. :heavy_check_mark:  
+8. **I don't have a holiday** for 18 month. :x:  
+   **I haven't had a holiday** for 18 month. :heavy_check_mark:  
+   *Translation:
+    - No he fet/tingut vacances des de fa 18 mesos  
+    - Fa 18 mesos que no faig vacances*  
+9. **Have we got to do this exercise now**, or can we do it later for homework? :heavy_check_mark:  
+   *Reason: Have got in obligation form is an auxiliary verb.*  
    
