@@ -38,6 +38,8 @@ Be careful with the use of the present prefect for unfinished time:
 - They**'ve been married** for over 15 years (*Ells **porten casats** més de 15 anys*)  
 - I **haven't been feeling** all that well recently (Últimament **no em trobo** molt bé)  
 
+<hr>
+
 ### <span style="color:blue">Exercises</span>  
 #### A. Right/Wrong  
 0. **I've been** looking after my sister's kids all day :heavy_check_mark:  
