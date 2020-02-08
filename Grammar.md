@@ -40,7 +40,7 @@ Be careful with the use of the present prefect for unfinished time:
 
 ### <span style="color:blue">Exercises</span>  
 #### A. Right/Wrong  
-0. I**'ve been** looking after my sister's kids all day [x]  
-1. I don't think you should drive until **you've had your brakes fixed**. [x]  
-2. I **haven't got any money** [x]
+0. I**'ve been** looking after my sister's kids all day :heavy_check_mark:  
+1. I don't think you should drive until **you've had your brakes fixed**. -  [x]  
+2. I **haven't got any money** [x]  
 3.
