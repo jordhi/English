@@ -41,6 +41,8 @@ Be careful with the use of the present prefect for unfinished time:
 ### <span style="color:blue">Exercises</span>  
 #### A. Right/Wrong  
 0. I**'ve been** looking after my sister's kids all day :heavy_check_mark:  
-1. I don't think you should drive until **you've had your brakes fixed**. -  [x]  
-2. I **haven't got any money** [x]  
-3.
+1. I don't think you should drive until **you've had your brakes fixed**. :heavy_check_mark:  
+2. I **haven't got any money** :heavy_check_mark:  
+3. **Has your husband to** work tomorrow he is taking the day off. :x:  
+   **Does your husband have to**... :heavy_check_mark:  
+   
