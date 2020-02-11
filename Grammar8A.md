@@ -1,9 +1,9 @@
 ## 8A - Gerunds and Infinitives
 
 > Passive
-- Gerunds: **being done**
-- Infinitives: **to be done**  
-Describes actions which are done to the subject
+>- Gerunds: **being done**
+>- Infinitives: **to be done**  
+>Describes actions which are done to the subject
 >  
 >1. *She hates __being told__ she should do more exercise.*  
   Action: _do more exercise_   
