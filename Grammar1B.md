@@ -1,4 +1,4 @@
-## 1B - Discourse makers (1): linkers  
+## 1B - Discourse makers (1): _linkers_  
 
 4 kind of linkers:  
 1. **Result**  
