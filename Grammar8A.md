@@ -29,8 +29,8 @@
 >  I would like to see the Eiffel Tower (**earlier** future)  
 >  I would like to have seen the Eiffel Tower (**earlier** past)  
 
-> Continuous infinitive
-To say that action or event is in progress around the time we are talking about.
- - **to be + verb + ing**  
-  I'd like **to be lying on** the beach right now.  
-  She seems **to be coughing** a lot (sembla que està tossint molt)
+> Continuous infinitive  
+>To say that action or event is in progress around the time we are talking about.  
+> - **to be + verb + ing**  
+>  I'd like **to be lying on** the beach right now.  
+>  She seems **to be coughing** a lot (sembla que està tossint molt)
