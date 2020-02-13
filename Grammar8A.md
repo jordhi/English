@@ -54,14 +54,18 @@ Otherwise, there is some verbs with the same meaning:
 visit: https://www.youtube.com/watch?v=v2_Qic03XFI  
 
 ### Exercicis
-
-1. I was really stupid **having followed** my mother's advice. She was totally wrong.
-2. I'd love **to have been** there when you told him you were living.
-3. If I has serious illness, I would prefer **to be told** the truth by my doctor.
-4. It's no use **running**. The check-in will have close by now.
-5. Mark seems **to work** too hard at the moment. He looks very tired.
-6. By the time I'm 55 , I expect **to save** enough to be able to just work part-time.
-7. The man denied **having committed** the crime.
+a -
+1. I was really stupid **have followed / to follow** my mother's advice. She was totally wrong.
+2. I'd love **to have been** there when you told him you were living. (_perfect_)
+3. If I has serious illness, I would prefer **to be told** the truth by my doctor. (_passive_)
+4. It's no use **running**. The check-in will have close by now. (_It's no use_)
+5. Mark seems **to be working** too hard at the moment. He looks very tired. (_in progress_)
+6. By the time I'm 55 , I expect **to have saved** enough to be able to just work part-time.
+7. The man denied **having committed / committing** the crime.
 8. There will be plenty of time to have something **to eat** at the airport.
-9. It's not good **to phone** him because he's bound to have switched it off.
-10. Who was the second man **walking** on the moon?
+9. It's not good **phoning** him because he's bound to have switched it off. (_It's no good..._)
+10. Who was the second man **to walk** on the moon? (_superlative_)  
+
+b -
+1.
+2.
