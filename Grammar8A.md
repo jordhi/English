@@ -67,5 +67,10 @@ a -
 10. Who was the second man **to walk** on the moon? (_superlative_)  
 
 b -
-1.
-2.
+1. We **haven't got / don't have enough** time to do any more shopping
+2. I hate **being woken up** from a siesta.
+3. **Do you regret not having studied / not studying** harder at school.
+4. I love it when people help me in the kitchen **without being asked them / having been asked**.
+5. **I'd love to have gone / I'd love to have been able to go** to your birthday party.
+6. The children seems *to be having** a good time.
+7. My **plan is not to have** an operation until I've tried all the other alternatives.
