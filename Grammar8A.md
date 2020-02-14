@@ -74,3 +74,8 @@ b -
 5. **I'd love to have gone / I'd love to have been able to go** to your birthday party.
 6. The children seems *to be having** a good time.
 7. My **plan is not to have** an operation until I've tried all the other alternatives.
+
+### Vocabulary
+Acupuncture: https://www.youtube.com/watch?v=1tyKbjwGrdU  
+
+[![Acupuncture](http://img.youtube.com/vi/1tyKbjwGrdU/0.jpg)](https://www.youtube.com/watch?v=1tyKbjwGrdU "Acupuncture")
