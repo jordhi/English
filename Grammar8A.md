@@ -78,7 +78,7 @@ b -
 ### Vocabulary
 1. Acupuncture: https://www.youtube.com/watch?v=1tyKbjwGrdU  
 
-[![Acupuncture](http://img.youtube.com/vi/1tyKbjwGrdU/0.jpg)](https://www.youtube.com/watch?v=1tyKbjwGrdU "Acupuncture")  
+[![Acupuncture](http://img.youtube.com/vi/1tyKbjwGrdU/0.jpg)](https://www.youtube.com/watch?v=1tyKbjwGrdU "Acupuncture")    
 
-2. Homeopathy:  
+2. Homeopathy:
 [![Homeopathy](http://img.youtube.com/vi/Dfq9AgZXxAY/0.jpg)](https://www.youtube.com/watch?v=Dfq9AgZXxAY "Homeopathy")  
