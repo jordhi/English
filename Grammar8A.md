@@ -76,7 +76,7 @@ b -
 7. My **plan is not to have** an operation until I've tried all the other alternatives.
 
 ### Vocabulary
-1. Acupuncture: https://www.youtube.com/watch?v=1tyKbjwGrdU  
+1. [Acupuncture](https://www.macmillandictionary.com/media/british/uk_pron_ogg/a/acu/acupu/acupuncture_British_English_pronunciation.ogg):
 
 [![Acupuncture](http://img.youtube.com/vi/1tyKbjwGrdU/0.jpg)](https://www.youtube.com/watch?v=1tyKbjwGrdU "Acupuncture")    
 
