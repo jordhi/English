@@ -80,6 +80,14 @@ b -
 
 [![Acupuncture](http://img.youtube.com/vi/1tyKbjwGrdU/0.jpg)](https://www.youtube.com/watch?v=1tyKbjwGrdU "Acupuncture")    
 
-2. Homeopathy:  
+2. [Homeopathy](https://www.macmillandictionary.com/media/british/uk_pron_ogg/h/hom/homeo/homeopathy_British_English_pronunciation.ogg):  
 
 [![Homeopathy](http://img.youtube.com/vi/Dfq9AgZXxAY/0.jpg)](https://www.youtube.com/watch?v=Dfq9AgZXxAY "Homeopathy")  
+
+3. [Aromatherapy](https://www.macmillandictionary.com/media/british/uk_pron_ogg/a/aro/aroma/aromatherapy_British_English_pronunciation.ogg)  
+
+4. [Hypnotherapy](https://www.macmillandictionary.com/media/british/uk_pron_ogg/h/hyp/hypno/hypnotherapy_British_English_pronunciation.ogg)  
+
+5. [Chiropractic](https://www.macmillandictionary.com/media/british/uk_pron_ogg/c/chi/chiro/chiropractic_British_English_pronunciation.ogg)  
+
+6. [Osteopathy](https://www.macmillandictionary.com/media/british/uk_pron_ogg/o/ost/osteo/osteopathy_British_English_pronunciation.ogg)  
